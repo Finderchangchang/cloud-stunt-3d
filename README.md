@@ -6,3 +6,9 @@
 
 - 拖动画面：自由视角；滚轮：缩放
 - 空格：暂停；F：切换视角；数字键 1–7：跳到对应镜头
+## 黄昏版
+
+用 three.js 重做的一版，黄昏逆光，43 秒：https://finderchangchang.github.io/cloud-stunt-3d/golden/
+
+- 空格：暂停；F：自由视角；数字键 1–7：跳镜头；Q：切换画质
+- three.js（MIT 许可）已内嵌在页面里，许可文本见 `golden/three-LICENSE.txt`
