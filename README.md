@@ -12,3 +12,10 @@
 
 - 空格：暂停；F：自由视角；数字键 1–7：跳镜头；Q：切换画质
 - three.js（MIT 许可）已内嵌在页面里，许可文本见 `golden/three-LICENSE.txt`
+
+## 霓虹版
+
+同一个故事的赛博朋克版：2099 年的“新长安”，霓虹雨夜，43 秒：https://finderchangchang.github.io/cloud-stunt-3d/cyber/
+
+- 空格：暂停；F：自由视角；数字键 1–7：跳镜头；Q：切换画质
+- three.js（MIT 许可）已内嵌在页面里，许可文本见 `cyber/three-LICENSE.txt`
