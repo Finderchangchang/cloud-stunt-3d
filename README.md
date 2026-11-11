@@ -19,3 +19,11 @@
 
 - 空格：暂停；F：自由视角；数字键 1–7：跳镜头；Q：切换画质
 - three.js（MIT 许可）已内嵌在页面里，许可文本见 `cyber/three-LICENSE.txt`
+
+## 大肥鱼大战 Claude
+
+网页版第一人称射击整活游戏：手里的枪是一条蓝色大肥鱼，对面的怪全是 Claude：https://finderchangchang.github.io/cloud-stunt-3d/dafeiyu/
+
+- 改编自黑哥的《几猫》（https://www.heigeai.com/game/jimao/）。关卡、玩法、画面都是原作的，这一版只换了怪物、武器和名字
+- WASD 移动，鼠标转视角，左键开火，右键瞄准，R 换弹，E 切断中继，Esc 暂停；建议用电脑上的 Chrome 或 Edge
+- three.js（MIT 许可）已内嵌在页面里，许可文本见 `dafeiyu/three-LICENSE.txt`
